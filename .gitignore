@@ -114,3 +114,5 @@ fabric.properties
 /.idea/modules.xml
 /.idea/compiler.xml
 /.idea/runConfigurations.xml
+/.idea/git_toolbox_prj.xml
+/.idea/vcs.xml
